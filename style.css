@@ -375,3 +375,7 @@ div .box3{
    appearance: none;
    background-color: black;
 }
+
+@media(min-width:1024){
+   #main{width : 100vw}
+}
