@@ -1,0 +1,377 @@
+div{
+    background-color: rgb(17, 14, 14);
+    opacity : 1;
+    box-shadow: 2px 2px  2px rgb(17, 14, 14);
+    width: 280px;
+    height: 100px;
+    border-radius: 10px
+    
+
+
+}
+div button{
+    color: white;
+    background-color: rgb(17, 14, 14);
+    width : 150px;
+    border: none;
+    
+
+
+}
+
+div button span {
+    position: relative;
+    top : 6px;
+    right: 40px
+}
+div button i {
+    position: relative;
+    top : 6px;
+    right: 40px
+}
+
+div button p{
+    width : 10px;
+    display:inline;
+    position : relative;
+    right: 30px;
+
+}
+
+
+body {
+    background-color: black;
+}
+
+
+.box2{
+    background-color: rgb(17,14,14);
+    height : 750px;
+    position: relative;
+    top:10px;
+    width:280px;
+    color:white;
+    
+}
+
+
+div img {
+    height: 25px;
+    display:inline;
+    position : relative;
+    top: 5px
+}
+div button:hover{
+    opacity: 0.5;
+
+
+
+}
+
+
+.box2 button {
+position:relative ;
+left: 80px;
+top: 5px;
+width : 5px
+}
+
+
+div .b2 {
+    position: relative;
+    left: 100px;
+    top : -1px ;
+}
+
+div .box3{
+    background-color: rgb(29, 27, 27);
+    position :relative;
+    top:20px;
+    height:150px
+
+}
+ .box3 button{
+    color:black;
+    background-color: white;
+    width:100px ;
+    position:relative;
+    left:20px;
+    top:20px;
+    border-radius:100px;
+
+ }
+
+ .box3 #b3{
+    width:150px;
+ }
+
+ .box3 hr{
+    width:100px;
+    position: relative;
+    right: 50px;
+
+ }
+
+ #main{
+    position:relative;
+    left: 280px;
+    background-color: rgb(17,14,14);
+    height: 850px;
+    bottom:500px;
+    width: 1200px;
+    margin:10px;
+    border-radius:10px;
+    margin-top:40px;
+    overflow:auto;
+    
+    
+
+    
+    
+
+ }
+
+
+
+ #lr{
+    width: 30px;
+    background-color: rgb(30, 29, 29);
+    height: 30px;
+    border-radius :100px 100px 100px 100px;
+    
+   
+
+
+    
+    
+ }
+ #icon{
+    position:relative;
+    left: 1px;
+    top: 2px;
+ }
+ #i2{
+    position:relative;
+    left: 0.009px;
+    top:2px;
+    font-size:15px
+ }
+ 
+ #upgrade{
+    background-color: rgb(250, 253, 255);
+    color :black;
+    width: 70px;
+    border-radius : 40px;
+    position: relative;
+    left: 800px;
+    height: 30px;
+
+
+
+ }
+ #install{
+    color: white;
+    width: 90px;
+    background-color: rgb(54, 48, 48);
+    border-radius: 30px;
+    height: 35px;
+    position: relative;
+    left : 805px;
+    margin-left:10px;
+    margin-top: 10px;
+ }
+
+
+ #installicon {
+    position: relative;
+    left: 3px;
+    top: 1px;
+    margin-right: 10px;
+    border: 2px solid rgb(240, 233, 233);
+    border-radius: 100px ;
+    width: 15x;
+    height: 15px;
+ }
+
+ #profile{
+    position:relative;
+    left: 850px;
+    top:1px;
+    font-size: 20px;
+    background-color: rgb(20, 19, 19);
+    
+ }
+
+ .card{
+    background-color: rgb(45, 38, 38);
+    height: 280px;
+    text-align: center;
+    line-height: 15px;
+    width: 200px;
+    font-size: 10px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+ }
+#car {
+    display:flex;
+    flex-direction:column;
+    gap:50px;
+    flex-wrap: wrap;
+    
+    
+
+    
+
+}
+ .image{
+   height: 170px;
+
+   position: relative;
+   left: 3px;
+   margin-top: 10px;
+ }
+
+ #car2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 250px;
+    
+    
+ }
+
+ 
+
+ #card5{
+    margin-left: 1px;
+ }
+
+ #card6{
+    margin-left: 50px;
+ }
+
+
+  #main .card:hover{
+    opacity:0.5;
+    
+ }
+
+ #navbar{
+    background-color:rgb(31, 29, 29);
+    height: 100px;
+    position:fixed;
+    top: 770px;
+    width: 1500px;
+    
+
+
+    
+    
+    
+
+ }
+
+ #main #buttons{
+    background-color: rgb(20, 19, 19);
+    height: 50px;
+    width: 1200px;
+    position: sticky;
+    top:0px;
+    z-index:1;
+    margin-top: 0px;
+ } 
+ .play{
+    position: relative;
+    left: -4px;
+   
+ }
+
+ #remix{
+    background-color: rgb(31, 29, 29);
+    position: relative;
+    left: 500px;
+ }
+
+ #backward{
+    background-color: rgb(31,29,29);
+    position: relative;
+    left: 510px ;
+ }
+ #play2{
+    background-color: rgb(31, 29, 29);
+    position: relative;
+    left: 520px;
+
+
+ }
+
+
+ #forward{
+    background-color: rgb(31, 29, 29);
+    position: relative;
+    left : 530px
+
+ }
+
+ #replay{
+    background-color: rgb(31, 29, 29);
+    position: relative;
+    left : 540px
+ }
+
+ #range{
+    appearance: none;
+    position: relative;
+    left:280px;
+    top:40px;
+    background-color: rgb(31, 29, 29);
+    width: 400px;
+    cursor: pointer;
+    
+    
+ }
+
+ #range::-webkit-slider-runnable-track{
+    background-color: rgb(209, 216, 223);
+    height: 2px;
+    
+
+ }
+
+ #range::-webkit-slider-thumb{
+    appearance: none;
+    background-color: rgb(11, 216, 55);
+    position: relative;
+    bottom: 7px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    
+ }
+
+
+ #hr{
+    width :300px;
+    height: 500px;
+ }
+
+ #footer{
+    width: 500px;
+    background-color: antiquewhite;
+    height: 2px;
+    position: relative;
+    top: 300px;
+    left: 350px;
+ }
+
+
+ #bt4{
+    position: relative;
+    left: 200px;
+ }
+
+
+#song1{
+   appearance: none;
+   background-color: black;
+}
