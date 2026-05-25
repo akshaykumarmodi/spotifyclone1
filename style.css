@@ -377,5 +377,5 @@ div .box3{
 }
 
 @media(min-width:1024){
-   #main{width : 100vw}
+   #main{width : 100%}
 }
